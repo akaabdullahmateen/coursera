@@ -1,0 +1,1302 @@
+[
+    {
+        "mcn": "HST.953",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Data Mining"
+            }
+        ],
+        "href": "courses/health-sciences-and-technology/hst-953-collaborative-data-science-for-healthcare-fall-2020",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2020",
+        "id": "hst-953-collaborative-data-science-for-healthcare-fall-2020",
+        "title": "Collaborative Data Science for Healthcare",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "health-sciences-and-technology"
+    },
+    {
+        "mcn": "6.858",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Computer Design and Engineering"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Software Design and Engineering"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2014",
+        "id": "6-858-computer-systems-security-fall-2014",
+        "title": "Computer Systems Security",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.890",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Theory of Computation"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2014",
+        "id": "6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014",
+        "title": "Algorithmic Lower Bounds: Fun with Hardness Proofs",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "8.370x",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Cryptography"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Theory of Computation"
+            }
+        ],
+        "href": "courses/physics/8-370x-quantum-information-science-i-spring-2018",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Spring 2018",
+        "id": "8-370x-quantum-information-science-i-spring-2018",
+        "title": "Quantum Information Science I",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "physics"
+    },
+    {
+        "mcn": "Supplemental",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            }
+        ],
+        "href": "resources/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Spring 2020",
+        "id": "res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020",
+        "title": "Exploring Fairness in Machine Learning for International Development",
+        "level": "Non Credit",
+        "completeVideo": true,
+        "department": "resources"
+    },
+    {
+        "mcn": "6.036",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2020",
+        "id": "6-036-introduction-to-machine-learning-fall-2020",
+        "title": "Introduction to Machine Learning",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.0001",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": ""
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Programming Languages"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2016",
+        "id": "6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016",
+        "title": "Introduction to Computer Science and Programming in Python",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.S191",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Graphics and Visualization"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Software Design and Engineering"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-s191-introduction-to-deep-learning-january-iap-2020",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "January IAP 2020",
+        "id": "6-s191-introduction-to-deep-learning-january-iap-2020",
+        "title": "Introduction to Deep Learning",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "CMS.611J",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Software Design and Engineering"
+            }
+        ],
+        "href": "courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2014",
+        "id": "cms-611j-creating-video-games-fall-2014",
+        "title": "Creating Video Games",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "comparative-media-studies-writing"
+    },
+    {
+        "mcn": "18.S190",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Computer Design and Engineering"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Computer Networks"
+            }
+        ],
+        "href": "courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Spring 2020",
+        "id": "18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020",
+        "title": "Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "6.S897",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Human-Computer Interfaces"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2019",
+        "id": "6-s897-machine-learning-for-healthcare-spring-2019",
+        "title": "Machine Learning for Healthcare",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "18.404J",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Theory of Computation"
+            }
+        ],
+        "href": "courses/mathematics/18-404j-theory-of-computation-fall-2020",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2020",
+        "id": "18-404j-theory-of-computation-fall-2020",
+        "title": "Theory of Computation",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "6.001",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": ""
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Theory of Computation"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005",
+        "completeLectures": false,
+        "lectureNotes": true,
+        "sem": "Spring 2005",
+        "id": "6-001-structure-and-interpretation-of-computer-programs-spring-2005",
+        "title": "Structure and Interpretation of Computer Programs",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.849",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2012",
+        "id": "6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012",
+        "title": "Geometric Folding Algorithms: Linkages, Origami, Polyhedra",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "15.S12",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": ""
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Computer Networks"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Cryptography"
+            }
+        ],
+        "href": "courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2018",
+        "id": "15-s12-blockchain-and-money-fall-2018",
+        "title": "Blockchain and Money",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "sloan-school-of-management"
+    },
+    {
+        "mcn": "6.01SC",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Software Design and Engineering"
+            },
+            {
+                "subCat": "Electrical Engineering",
+                "speciality": "Robotics and Control Systems"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2011",
+        "id": "6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011",
+        "title": "Introduction to Electrical Engineering and Computer Science I",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.006",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2011",
+        "id": "6-006-introduction-to-algorithms-fall-2011",
+        "title": "Introduction to Algorithms",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.189",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Theory of Computation"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Programming Languages"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Software Design and Engineering"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007",
+        "completeLectures": false,
+        "lectureNotes": true,
+        "sem": "January IAP 2007",
+        "id": "6-189-multicore-programming-primer-january-iap-2007",
+        "title": "Multicore Programming Primer",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.046J",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Computer Networks"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Cryptography"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2015",
+        "id": "6-046j-design-and-analysis-of-algorithms-spring-2015",
+        "title": "Design and Analysis of Algorithms",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.004",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Computer Design and Engineering"
+            },
+            {
+                "subCat": "Electrical Engineering",
+                "speciality": "Digital Systems"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2017",
+        "id": "6-004-computation-structures-spring-2017",
+        "title": "Computation Structures",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "8.371x",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Cryptography"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Theory of Computation"
+            }
+        ],
+        "href": "courses/physics/8-371x-quantum-information-science-ii-spring-2018",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Spring 2018",
+        "id": "8-371x-quantum-information-science-ii-spring-2018",
+        "title": "Quantum Information Science II",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "physics"
+    },
+    {
+        "mcn": "18.S191",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Computer Design and Engineering"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Computer Networks"
+            }
+        ],
+        "href": "courses/mathematics/18-s191-introduction-to-computational-thinking-fall-2020",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2020",
+        "id": "18-s191-introduction-to-computational-thinking-fall-2020",
+        "title": "Introduction to Computational Thinking",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "6.832",
+        "topics": [
+            {
+                "subCat": "Electrical Engineering",
+                "speciality": "Robotics and Control Systems"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Spring 2009",
+        "id": "6-832-underactuated-robotics-spring-2009",
+        "title": "Underactuated Robotics",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.034",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Theory of Computation"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2010",
+        "id": "6-034-artificial-intelligence-fall-2010",
+        "title": "Artificial Intelligence",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.868J",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2011",
+        "id": "6-868j-the-society-of-mind-fall-2011",
+        "title": "The Society of Mind",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.02",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Computer Networks"
+            },
+            {
+                "subCat": "Electrical Engineering",
+                "speciality": "Digital Systems"
+            },
+            {
+                "subCat": "Electrical Engineering",
+                "speciality": "Signal Processing"
+            },
+            {
+                "subCat": "Electrical Engineering",
+                "speciality": "Telecommunications"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2012",
+        "id": "6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012",
+        "title": "Introduction to EECS II: Digital Communication Systems",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "15.S08",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": ""
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            }
+        ],
+        "href": "courses/sloan-school-of-management/15-s08-fintech-shaping-the-financial-world-spring-2020",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2020",
+        "id": "15-s08-fintech-shaping-the-financial-world-spring-2020",
+        "title": "FinTech: Shaping the Financial World ",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "sloan-school-of-management"
+    },
+    {
+        "mcn": "6.172",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Software Design and Engineering"
+            },
+            {
+                "subCat": "Systems Engineering",
+                "speciality": "Systems Optimization"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2018",
+        "id": "6-172-performance-engineering-of-software-systems-fall-2018",
+        "title": "Performance Engineering of Software Systems",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.851",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2012",
+        "id": "6-851-advanced-data-structures-spring-2012",
+        "title": "Advanced Data Structures",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.S095",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Programming Languages"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "January IAP 2018",
+        "id": "6-s095-programming-for-the-puzzled-january-iap-2018",
+        "title": "Programming for the Puzzled",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "MAS.S62",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Algorithms and Data Structures"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Data Mining"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Software Design and Engineering"
+            }
+        ],
+        "href": "courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2018",
+        "id": "mas-s62-cryptocurrency-engineering-and-design-spring-2018",
+        "title": "Cryptocurrency Engineering and Design",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "media-arts-and-sciences"
+    },
+    {
+        "mcn": "6.370",
+        "topics": [
+            {
+                "subCat": "Computer Science",
+                "speciality": "Artificial Intelligence"
+            },
+            {
+                "subCat": "Computer Science",
+                "speciality": "Programming Languages"
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-370-the-battlecode-programming-competition-january-iap-2013",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "January IAP 2013",
+        "id": "6-370-the-battlecode-programming-competition-january-iap-2013",
+        "title": "The Battlecode Programming Competition",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "15.S50",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/sloan-school-of-management/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "January IAP 2016",
+        "id": "15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016",
+        "title": "How to Win at Texas Hold'em Poker",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "sloan-school-of-management"
+    },
+    {
+        "mcn": "18.01SC",
+        "topics": [
+            {
+                "subCat": "Calculus",
+                "speciality": ""
+            },
+            {
+                "subCat": "Differential Equations",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-01sc-single-variable-calculus-fall-2010",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2010",
+        "id": "18-01sc-single-variable-calculus-fall-2010",
+        "title": "Single Variable Calculus",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "8.334",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/physics/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2014",
+        "id": "8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014",
+        "title": "Statistical Mechanics II: Statistical Physics of Fields",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "physics"
+    },
+    {
+        "mcn": "18.086",
+        "topics": [
+            {
+                "subCat": "Applied Mathematics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Linear Algebra",
+                "speciality": ""
+            },
+            {
+                "subCat": "Differential Equations",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Spring 2006",
+        "id": "18-086-mathematical-methods-for-engineers-ii-spring-2006",
+        "title": "Mathematical Methods for Engineers II",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.01",
+        "topics": [
+            {
+                "subCat": "Calculus",
+                "speciality": ""
+            },
+            {
+                "subCat": "Differential Equations",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-01-single-variable-calculus-fall-2006",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2006",
+        "id": "18-01-single-variable-calculus-fall-2006",
+        "title": "Single Variable Calculus",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.217",
+        "topics": [
+            {
+                "subCat": "Applied Mathematics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Discrete Mathematics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2019",
+        "id": "18-217-graph-theory-and-additive-combinatorics-fall-2019",
+        "title": "Graph Theory and Additive Combinatorics",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.085",
+        "topics": [
+            {
+                "subCat": "Linear Algebra",
+                "speciality": ""
+            },
+            {
+                "subCat": "Differential Equations",
+                "speciality": ""
+            },
+            {
+                "subCat": "Applied Mathematics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2008",
+        "id": "18-085-computational-science-and-engineering-i-fall-2008",
+        "title": "Computational Science and Engineering I",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.06",
+        "topics": [
+            {
+                "subCat": "Linear Algebra",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-06-linear-algebra-spring-2010",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Spring 2010",
+        "id": "18-06-linear-algebra-spring-2010",
+        "title": "Linear Algebra",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.S097",
+        "topics": [
+            {
+                "subCat": "Applied Mathematics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Topology and Geometry",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-s097-applied-category-theory-january-iap-2019",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "January IAP 2019",
+        "id": "18-s097-applied-category-theory-january-iap-2019",
+        "title": "Applied Category Theory ",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.065",
+        "topics": [
+            {
+                "subCat": "Applied Mathematics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Computation",
+                "speciality": ""
+            },
+            {
+                "subCat": "Linear Algebra",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Spring 2018",
+        "id": "18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018",
+        "title": "Matrix Methods in Data Analysis, Signal Processing, and Machine Learning",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "6.042J",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Applied Mathematics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Discrete Mathematics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2010",
+        "id": "6-042j-mathematics-for-computer-science-fall-2010",
+        "title": "Mathematics for Computer Science",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.262",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Discrete Mathematics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Spring 2011",
+        "id": "6-262-discrete-stochastic-processes-spring-2011",
+        "title": "Discrete Stochastic Processes",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "6.041SC",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Discrete Mathematics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2013",
+        "id": "6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013",
+        "title": "Probabilistic Systems Analysis and Applied Probability",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "15.071",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2017",
+        "id": "15-071-the-analytics-edge-spring-2017",
+        "title": "The Analytics Edge",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "sloan-school-of-management"
+    },
+    {
+        "mcn": "6.041",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Discrete Mathematics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2010",
+        "id": "6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010",
+        "title": "Probabilistic Systems Analysis and Applied Probability",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "18.06SC",
+        "topics": [
+            {
+                "subCat": "Linear Algebra",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-06sc-linear-algebra-fall-2011",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2011",
+        "id": "18-06sc-linear-algebra-fall-2011",
+        "title": "Linear Algebra",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.03SC",
+        "topics": [
+            {
+                "subCat": "Differential Equations",
+                "speciality": ""
+            },
+            {
+                "subCat": "Linear Algebra",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-03sc-differential-equations-fall-2011",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2011",
+        "id": "18-03sc-differential-equations-fall-2011",
+        "title": "Differential Equations",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.S997",
+        "topics": [
+            {
+                "subCat": "Applied Mathematics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011",
+        "completeLectures": false,
+        "lectureNotes": false,
+        "sem": "Fall 2011",
+        "id": "18-s997-introduction-to-matlab-programming-fall-2011",
+        "title": "Introduction To MATLAB Programming",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.650",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-650-statistics-for-applications-fall-2016",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2016",
+        "id": "18-650-statistics-for-applications-fall-2016",
+        "title": "Statistics for Applications ",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.03",
+        "topics": [
+            {
+                "subCat": "Differential Equations",
+                "speciality": ""
+            },
+            {
+                "subCat": "Linear Algebra",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-03-differential-equations-spring-2010",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2010",
+        "id": "18-03-differential-equations-spring-2010",
+        "title": "Differential Equations",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.02SC",
+        "topics": [
+            {
+                "subCat": "Calculus",
+                "speciality": ""
+            },
+            {
+                "subCat": "Linear Algebra",
+                "speciality": ""
+            },
+            {
+                "subCat": "Differential Equations",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-02sc-multivariable-calculus-fall-2010",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2010",
+        "id": "18-02sc-multivariable-calculus-fall-2010",
+        "title": "Multivariable Calculus",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "18.02",
+        "topics": [
+            {
+                "subCat": "Calculus",
+                "speciality": ""
+            },
+            {
+                "subCat": "Differential Equations",
+                "speciality": ""
+            },
+            {
+                "subCat": "Linear Algebra",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-02-multivariable-calculus-fall-2007",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2007",
+        "id": "18-02-multivariable-calculus-fall-2007",
+        "title": "Multivariable Calculus",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "6.0002",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2016",
+        "id": "6-0002-introduction-to-computational-thinking-and-data-science-fall-2016",
+        "title": "Introduction to Computational Thinking and Data Science",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "electrical-engineering-and-computer-science"
+    },
+    {
+        "mcn": "2.830J",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mechanical-engineering/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Spring 2008",
+        "id": "2-830j-control-of-manufacturing-processes-sma-6303-spring-2008",
+        "title": "Control of Manufacturing Processes (SMA 6303)",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "mechanical-engineering"
+    },
+    {
+        "mcn": "18.S096",
+        "topics": [
+            {
+                "subCat": "Applied Mathematics",
+                "speciality": ""
+            },
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2013",
+        "id": "18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013",
+        "title": "Topics in Mathematics with Applications in Finance",
+        "level": "Undergraduate",
+        "completeVideo": true,
+        "department": "mathematics"
+    },
+    {
+        "mcn": "8.333",
+        "topics": [
+            {
+                "subCat": "Probability and Statistics",
+                "speciality": ""
+            }
+        ],
+        "href": "courses/physics/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013",
+        "completeLectures": true,
+        "lectureNotes": true,
+        "sem": "Fall 2013",
+        "id": "8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013",
+        "title": "Statistical Mechanics I:  Statistical Mechanics of Particles",
+        "level": "Graduate",
+        "completeVideo": true,
+        "department": "physics"
+    }
+]

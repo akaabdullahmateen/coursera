@@ -1,0 +1,119 @@
+.footer {
+    width: 100%;
+    height: 300px;
+    background-color: #20232a;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    cursor: default;
+}
+
+.footer-left {
+    flex-grow: 1;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-right: 1px solid #999999;
+    padding-right: 70px;
+}
+
+.footer-center {
+    width: max-content;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    border-right: 1px solid #999999;
+}
+
+.footer-right {
+    flex-grow: 1;
+    padding-left: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+}
+
+.footer-logo-box {
+    width: 100%;
+    height: max-content;
+    display: flex;
+    flex-direction: row;
+    align-items: right;
+    justify-content: right;
+}
+
+.footer-app-name {
+    font-size: 20px;
+    font-weight: 600;
+    color: #999999;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.footer-copyright-section {
+    width: 100%;
+    text-align: right;
+    font-size: 12px;
+    margin-top: 20px;
+    color: #999999;
+}
+
+.footer-menu {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: top;
+    gap: 5px;
+}
+
+.footer-h1 {
+    color: #999999;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.footer-h2 {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.footer-h3 {
+    color: #999999;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.footer-built-with {
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    gap: 30px;
+}
+
+.footer-react-logo {
+    width: 40px;
+    height: 40px;
+}
+
+.footer-nodejs-logo {
+    width: 60px;
+    height: 60px;
+    margin-top: -10px;
+}
+
+.footer-npm-logo {
+    width: 60px;
+    height: 60px;
+    margin-top: -10px;
+}
